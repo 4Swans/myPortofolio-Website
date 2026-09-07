@@ -2,6 +2,17 @@ import { Project } from "@/types";
 
 export const projects: Project[] = [
   {
+    title: "dAI.ly Notes with Agentic AI",
+    description: "A smart daily notes application empowered by agentic AI capabilities for intelligent task management and note-taking.",
+    category: "AI Application",
+    categoryVariant: "primary",
+    imageUrl: "/images/projects/daily-notes.jpg",
+    imageAlt: "dAI.ly Notes — Agentic AI Notes App",
+    featured: true,
+    liveUrl: "#",
+    githubUrl: "https://github.com/4Swans/dAI.ly-Notes",
+  },
+  {
     title: "Resident Evil Lore Chatbot",
     description:
       "A Retrieval-Augmented Generation system capable of deep lore analysis and natural conversation using vectorized game archives.",
