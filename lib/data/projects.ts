@@ -2,6 +2,18 @@ import { Project } from "@/types";
 
 export const projects: Project[] = [
   {
+    title: "ScopeCV",
+    description:
+      "Intelligent resume screening and candidate ranking platform powered by Gemini AI, featuring automated bulk resume parsing, criteria evaluation, and visual match scoring.",
+    category: "AI Platform",
+    categoryVariant: "primary",
+    imageUrl: "/images/projects/scopecv.jpg",
+    imageAlt: "ScopeCV — Intelligent Resume Screening & Candidate Ranking Platform",
+    featured: true,
+    liveUrl: "#",
+    githubUrl: "https://github.com/4Swans/ScopeCV---On-Development",
+  },
+  {
     title: "dAI.ly Notes with Agentic AI",
     description: "A smart daily notes application empowered by agentic AI capabilities for intelligent task management and note-taking.",
     category: "AI Application",
