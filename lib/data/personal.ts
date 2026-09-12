@@ -6,7 +6,7 @@ export const personalInfo: PersonalInfo = {
   roles: ["AI Engineer", "ML Engineer", "System Engineering Intern"],
   bio: "I am a forward-thinking technologist specializing in the intersection of Artificial Intelligence and robust Full Stack development. My journey is defined by a passion for building systems that don't just process data, but understand it. From developing Retrieval-Augmented Generation (RAG) systems to deploying real-time computer vision models, I bridge the gap between complex research and production-grade applications.",
   yearsExperience: "1",
-  projectsCompleted: "5+",
+  projectsCompleted: "7+",
   socialLinks: [
     {
       name: "GitHub",

@@ -13,6 +13,30 @@ export const projects: Project[] = [
     githubUrl: "https://github.com/4Swans/dAI.ly-Notes",
   },
   {
+    title: "Corn Leaf Disease Classification",
+    description:
+      "Deep learning computer vision system classifying corn leaf pathologies (Blight, Common Rust, Gray Leaf Spot) with 93% test accuracy and multi-format deployment.",
+    category: "Deep Learning",
+    categoryVariant: "primary",
+    imageUrl: "/images/projects/corn-leaf-classification.jpg",
+    imageAlt: "Corn Leaf Disease Classification — Deep learning computer vision diagnostic system",
+    featured: true,
+    liveUrl: "#",
+    githubUrl: "https://github.com/4Swans/Corn-Leaf-Classification",
+  },
+  {
+    title: "Socio-Economic Regional Clustering",
+    description:
+      "Unsupervised K-Means clustering and PCA pipeline combined with supervised classification to analyze and predict Indonesian regional economic disparities using BPS data.",
+    category: "Machine Learning",
+    categoryVariant: "secondary",
+    imageUrl: "/images/projects/socio-economic-clustering.jpg",
+    imageAlt: "Socio-Economic Clustering & Regional Profiling — Unsupervised & supervised ML pipeline",
+    featured: true,
+    liveUrl: "#",
+    githubUrl: "https://github.com/4Swans/Socio-Economic-Clustering---Regional-Profiling",
+  },
+  {
     title: "Resident Evil Lore Chatbot",
     description:
       "A Retrieval-Augmented Generation system capable of deep lore analysis and natural conversation using vectorized game archives.",

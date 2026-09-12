@@ -3,24 +3,24 @@ import { Certification } from "@/types";
 export const certifications: Certification[] = [
   {
     title: "Machine Learning Engineer",
-    institution: "Dicoding Indonesia",
+    institution: "Dicoding Indonesia x DBS Foundation",
     description:
-      "Certified by Dicoding Indonesia. Expertise in regression, classification, and neural network optimization.",
-    credentialId: "Credential ID: DIC-ML-2024-X89",
+      "Certified through Coding Camp powered by DBS Foundation & Dicoding. Specialized in Machine Learning & Deep Learning fundamentals, predictive modeling, and end-to-end AI deployment.",
+    credentialId: "Credential ID: CC25/GRAD/XXV-07/MC009D5Y2333",
     credentialLabel: undefined,
     variant: "primary",
     logoUrl: "/images/certs/dicoding-logo.png",
-    logoAlt: "Dicoding Indonesia certification logo",
+    logoAlt: "Dicoding Indonesia x DBS Foundation Machine Learning Engineer certification logo",
   },
   {
-    title: "DBS Foundation Coding Camp",
-    institution: "DBS Foundation",
+    title: "Associate Data Scientist",
+    institution: "Badan Nasional Sertifikasi Profesi",
     description:
-      "Intensive full stack and system engineering program focusing on modern industry workflows.",
+      "Certified as Competent across 9 national competency units under BNSP for Associate Data Scientist (Ilmuwan Data Madya), covering data collection & validation, data cleaning & feature engineering, to machine learning model building and evaluation.",
     credentialId: undefined,
-    credentialLabel: "Awarded for Academic Excellence",
+    credentialLabel: "Status: Kompeten (17 Jun 2026)",
     variant: "secondary",
-    logoUrl: "/images/certs/dbs-logo.png",
-    logoAlt: "DBS Foundation Coding Camp logo",
+    logoUrl: "/images/certs/bnsp-logo.png",
+    logoAlt: "Badan Nasional Sertifikasi Profesi (BNSP) certification logo",
   },
 ];
